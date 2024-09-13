@@ -1,0 +1,83 @@
+{
+  "user_id": 1,
+  "playlist_id": 69,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "اللغة",
+  "hidden": false,
+  "media": [
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الأولى - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:46:19",
+      "link": "https://www.youtube.com/watch?v=IoK9DYq4fio",
+      "transcript_txt": "IoK9DYq4fio.txt",
+      "transcript_srt": "IoK9DYq4fio.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الثانية - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:46:28",
+      "link": "https://www.youtube.com/watch?v=b1rTg5TrHHI",
+      "transcript_txt": "b1rTg5TrHHI.txt",
+      "transcript_srt": "b1rTg5TrHHI.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الثالثة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:22:31",
+      "link": "https://www.youtube.com/watch?v=EiJHtT0JJCE",
+      "transcript_txt": "EiJHtT0JJCE.txt",
+      "transcript_srt": "EiJHtT0JJCE.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الرابعة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:36:51",
+      "link": "https://www.youtube.com/watch?v=d0Q9IWetu5A",
+      "transcript_txt": "d0Q9IWetu5A.txt",
+      "transcript_srt": "d0Q9IWetu5A.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الخامسة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "02:01:26",
+      "link": "https://www.youtube.com/watch?v=ITOxdaGHAc4",
+      "transcript_txt": "ITOxdaGHAc4.txt",
+      "transcript_srt": "ITOxdaGHAc4.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة السادسة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "02:02:17",
+      "link": "https://www.youtube.com/watch?v=63MVHqYxWqM",
+      "transcript_txt": "63MVHqYxWqM.txt",
+      "transcript_srt": "63MVHqYxWqM.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة السابعة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:55:57",
+      "link": "https://www.youtube.com/watch?v=4Z3t6qksWTM",
+      "transcript_txt": "4Z3t6qksWTM.txt",
+      "transcript_srt": "4Z3t6qksWTM.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة الثامنة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:41:16",
+      "link": "https://www.youtube.com/watch?v=Tc14Fd6mYAc",
+      "transcript_txt": "Tc14Fd6mYAc.txt",
+      "transcript_srt": "Tc14Fd6mYAc.srt"
+    },
+    {
+      "title": "دورة الوعي اللغوي | المحاضرة التاسعة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "02:23:31",
+      "link": "https://www.youtube.com/watch?v=vClSBC2OgMA",
+      "transcript_txt": "vClSBC2OgMA.txt",
+      "transcript_srt": "vClSBC2OgMA.srt"
+    }
+  ]
+}
